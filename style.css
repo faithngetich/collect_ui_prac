@@ -55,7 +55,10 @@ h1{
     border: #fff 3px;
 }
 
-p{
+.paragraph{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
     font-size: 160%;
     line-height: 210%;
     text-align: justify;
